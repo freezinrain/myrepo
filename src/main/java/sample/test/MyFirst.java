@@ -1,7 +1,10 @@
 package sample.test;
 
 public class MyFirst {
-	void doSoth() {
-		
+	public String doSoth(int c) {
+		if (c == 3) {
+			return "y";
+		}
+		return "x";
 	}
 }
