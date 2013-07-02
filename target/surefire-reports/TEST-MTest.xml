@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite failures="0" time="0.055" errors="0" skipped="0" tests="1" name="MTest">
+<testsuite failures="0" time="0.053" errors="0" skipped="0" tests="1" name="MTest">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.6.0_23\jre\bin"/>
@@ -58,5 +58,5 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86"/>
   </properties>
-  <testcase time="0.004" classname="MTest" name="testDoSoth"/>
+  <testcase time="0.003" classname="MTest" name="testDoSoth"/>
 </testsuite>
